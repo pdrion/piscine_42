@@ -1,0 +1,6 @@
+Credentials cache: API:E9C5FB9D-B9D4-4481-BEC8-E75D0167C444
+        Principal: pdrion@42.FR
+
+  Issued                Expires               Principal
+Aug 26 09:26:07 2019  Sep  2 09:26:07 2019  krbtgt/42.FR@42.FR
+Aug 26 15:43:47 2019  Sep  2 09:26:07 2019  host/vgs-fn1.42.fr@42.FR
